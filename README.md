@@ -1,4 +1,6 @@
-# Codes for Contour Detection with Receptive Field Models
+# MATLAB Codes for Contour Detection
+
+Visual Receptive Field Models, including:
 
 [1] SCO.zip  
 KF Yang, SB Gao, CF Guo, CY Li, YJ Li*. Boundary Detection Using Double-Opponency and Spatial Sparseness Constraint. IEEE TIP, 2015.
