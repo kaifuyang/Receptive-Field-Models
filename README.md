@@ -1,4 +1,4 @@
-# Codes Contour Detection with Receptive Field Models
+# Codes for Contour Detection with Receptive Field Models
 
 [1] SCO:  KF Yang, SB Gao, CF Guo, CY Li, YJ Li*. Boundary Detection Using Double-Opponency and Spatial Sparseness Constraint. IEEE TIP, 2015.
 
